@@ -1,0 +1,8 @@
+README
+
+knight's tour
+
+I have included a makefile.  To run the program simply type make run.  To remove the .o files type make clean.  The output file is knightsTourOutput.dat.  The program is written in c++.  The program report is knightReport.pdf.
+
+
+andrew chittick
